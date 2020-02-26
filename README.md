@@ -3,6 +3,7 @@ The Investigate Toolkit provides additional functionality to Nuix Investigate, i
 * Import users from Active Directory into Investigate  
 * Add users to Investigate groups based on Active Directory groups  
 * Add cases to Investigate groups based on the directory location  
+* Create Investigate groups from the command line
 * Run CSV and Excel audit reports  
 * Create and edit search filters  
 
