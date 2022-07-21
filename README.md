@@ -5,7 +5,6 @@ The Investigate Toolkit provides additional functionality to Nuix Investigate, i
 * Add cases to Investigate groups based on the directory location  
 * Create Investigate groups from the command line
 * Run CSV and Excel audit reports  
-* Create and edit search filters  
 
 Once configured, the toolkit can be scheduled to perform these actions silently and provide an audit log of the actions taken.  
 
